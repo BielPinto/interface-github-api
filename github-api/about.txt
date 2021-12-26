@@ -1,0 +1,4 @@
+criar um outr campo de pesquisa para linguagens 
+https://api.github.com/search/repositories?q=tetris+language:javascript&sort=stars&order=desc
+
+https://stackoverflow.com/questions/35551851/github-search-api-with-pagination
